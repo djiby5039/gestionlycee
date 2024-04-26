@@ -1,5 +1,9 @@
 # Lyceexcellence
 
+Pour demarrrer le projet il faut mettre \
+npm start\
+puis localhost 4200 sur votre navigateur pour acceder a l'interface
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
